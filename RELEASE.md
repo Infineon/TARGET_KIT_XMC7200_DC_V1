@@ -14,6 +14,9 @@ The KIT_XMC7200_DC_V1 library includes the following:
 * API documentation
 
 ### What Changed?
+#### v2.3.0
+* Updated linker scripts and startup code to align with mtb-pdl-cat1 v3.14.0
+* Added bt-fw-mur-cyw43439 as a dependency for KIT_XMC72_EVK_MUR_43439M2
 #### v2.2.0
 * Added the BSP for KIT_T2G_C-2D-6M_LITE
 #### v2.1.0
@@ -49,10 +52,10 @@ This version of the KIT_XMC7200_DC_V1 BSP was validated for compatibility with t
 
 | Software and Tools                        | Version |
 | :---                                      | :----:  |
-| ModusToolbox™ Software Environment        | 3.1.0   |
-| GCC Compiler                              | 12.2.1  |
-| IAR Compiler                              | 9.40.2  |
-| ARM Compiler                              | 6.16    |
+| ModusToolbox™ Software Environment        | 3.2.0   |
+| GCC Compiler                              | 11.3.1  |
+| IAR Compiler                              | 9.50.2  |
+| ARM Compiler                              | 6.22    |
 
 Minimum required ModusToolbox™ Software Environment: v3.0.0
 
