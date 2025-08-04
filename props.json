@@ -1,11 +1,12 @@
 {
     "core": {
-        "version": "2.3.1.45554"
+        "version": "2.3.2.47414"
     },
     "opt": {
         "props": {
             "capabilities": [
                 "adc",
+                "bsp_gen5",
                 "bsp_gen5",
                 "can",
                 "cat1",
@@ -23,6 +24,7 @@
                 "memory",
                 "multi_core",
                 "rtc",
+                "sdhc",
                 "sdio",
                 "smart_io",
                 "spi",
